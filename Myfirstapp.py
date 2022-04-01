@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("Mi primer App")
-s#t.button("Dale click")
+#st.button("Dale click")
 #st.button("Dale click x2")
 import pandas as pd
 
