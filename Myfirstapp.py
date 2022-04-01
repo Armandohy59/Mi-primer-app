@@ -11,4 +11,4 @@ import pandas as pd
                  
 #st.map(df)
 
-"Hola Mundo"
+st.text("Hola Mundo")
