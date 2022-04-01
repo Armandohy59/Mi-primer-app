@@ -1,6 +1,7 @@
 import streamlit as st
 st.title("Mi primer App")
-#st.button("Dale click")
+Click.st.button("Dale click")
+st.write("El valor de Click es", Click)
 #st.button("Dale click x2")
 import pandas as pd
 
@@ -16,3 +17,4 @@ import pandas as pd
 #st.text("La siguiente es una integral")
 #st.latex("\int_1^6 sin[x]dx")
 #st.markdown("Esta es una viñeta")
+
