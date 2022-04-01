@@ -1,7 +1,10 @@
 import streamlit as st
 st.title("Mi primer App")
-Click.st.button("Dale click")
-st.write("El valor de Click es", Click)
+Click=st.button("Dale click")
+st.write("El valor de Click es: ", Click)
+
+if Click==True
+
 #st.button("Dale click x2")
 import pandas as pd
 
