@@ -32,4 +32,4 @@ nn1 = st.nummber_imput("Dame n1")
 nn2 = st.nummber_imput("Dame n2")
 
 mult=nn1*nn2
-st.write("la multiplicación de", nn1" y ",nn2,"es :",mult)
+st.write("la multiplicación de",nn1" y ",nn2,"es :",mult)
