@@ -3,7 +3,7 @@ st.title("Mi primer App")
 
 
 
-with st.slidebar:
+with st.sidebar:
   num1 = st.slider('Elige el numero 1', 0.0, 100.0, 25.0)
   num2 = st.slider('Elige el numero 2', 0.0, 100.0, 25.0)
 Click=st.button("Dale click")
