@@ -1,5 +1,11 @@
 import streamlit as st
 st.title("Mi primer App")
+
+
+
+with st.slidebar:
+  num1 = st.slider('Elige el numero 1', 0.0, 100.0, 25.0)
+  num2 = st.slider('Elige el numero 2', 0.0, 100.0, 25.0)
 Click=st.button("Dale click")
 st.write("El valor de Click es: ", Click)
 
