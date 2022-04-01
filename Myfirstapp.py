@@ -14,4 +14,4 @@ import pandas as pd
 st.text("Hola Mundo")
 
 st.text("La siguiente es una integral")
-st.latex("\int")
+st.latex("\int_1-6")
