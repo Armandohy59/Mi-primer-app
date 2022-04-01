@@ -28,8 +28,8 @@ suma = num1+num2
 st.write("La suma de", num1," y ", num1, "es :",suma)
 
 st.write("Ahora multipliquemos")
-nn1 = st.nummber_input("Dame n1")
-nn2 = st.nummber_input("Dame n2")
+nn1 = st.number_input("Dame n1")
+nn2 = st.number_input("Dame n2")
 
 mult=nn1*nn2
 st.write("la multiplicación de",nn1," y ",nn2,"es :",mult)
