@@ -10,9 +10,9 @@ import pandas as pd
 #st.write(df)
                  
 #st.map(df)
+#INTEGRAL
+#st.text("Hola Mundo")
 
-st.text("Hola Mundo")
-
-st.text("La siguiente es una integral")
-st.latex("\int_1^6 sin[x]dx")
-st.markdown("Esta es una viñeta")
+#st.text("La siguiente es una integral")
+#st.latex("\int_1^6 sin[x]dx")
+#st.markdown("Esta es una viñeta")
